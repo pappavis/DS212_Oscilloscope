@@ -1,4 +1,5 @@
 # DS212_Oscilloscope
+Open source Oscilloscope code.<br/>
 
 zie <a href="http://www.minidso.com/forum.php?mod=viewthread&tid=1816">http://www.minidso.com/forum.php?mod=viewthread&tid=1816</a><br/>
 <br/>
